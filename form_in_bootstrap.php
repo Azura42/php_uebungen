@@ -81,13 +81,13 @@
             <input type="text" class="form-control" id="ort" placeholder="ORT" name="ort" value="<?php print($ort); ?>">
         </div>
         
-        <form method="POST">
+        <!-- <form method="POST">
                 <label for="zahl1">Zahl1</label><br />
                 <input type="number" id="zahl1" name="zahl1" value="<?php print($zahl1); ?>" /><br />
                 <br />
                 <label for="zahl2">Zahl2</label><br />
                 <input type="number" id="zahl2" name="zahl2" value="<?php print($zahl2); ?>" /><br />
-                <br />
+                <br /> -->
                 <button type="submit">Abschicken</button>
             </form>
             <p>
